@@ -38,6 +38,7 @@ module.exports = {
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
             filename: 'index.html',
+            template: 'index.html',
             scriptLoading: 'blocking'
         })
     ]
