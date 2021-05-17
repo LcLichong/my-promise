@@ -11,16 +11,15 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "@babel/core": "^7.13.16",
     "babel-loader": "^8.2.2",
     "babel-preset-env": "^1.7.0",
     "clean-webpack-plugin": "^4.0.0-alpha.0",
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.35.0",
-    "webpack-dev-server": "^3.11.2"
-  },
-  "devDependencies": {
+    "webpack-dev-server": "^3.11.2",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/preset-env": "^7.13.15",
     "webpack-cli": "^3.3.12"
